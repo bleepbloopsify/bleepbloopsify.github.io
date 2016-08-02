@@ -1,9 +1,12 @@
 # Site settings
 title: Leon Chou
-email: leon.chou@nyu.edu
-description: > Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+emails:
+  - leon.chou@nyu.edu
+  - bleepbloopsify@gmail.com
+  - leonchou123@gmail.com
+description: > #
+  Leon Chou: programmer and developer, devoted to coding and programatically solving problems.
+  This site is dedicated to showing his skills, projects, and activity in the real world.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: bleepbloopsify
