@@ -11,6 +11,9 @@
           {% for email in site.emails %}
           <li><a href="mailto:{{ site.email }}">{{ email }}</a></li>
           {% endfor %}
+          <li>
+            <a href="{{site.resume}}" target="_blank">Resumè</a>
+          </li>
         </ul>
       </div>
 
@@ -38,9 +41,11 @@
         </ul>
       </div>
 
+
       <div class="footer-col  footer-col-3">
         <p class="text">{{ site.description }}</p>
       </div>
+
     </div>
 
   </div>

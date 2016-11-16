@@ -2,16 +2,17 @@
 title: Leon Chou
 emails:
   - leon.chou@nyu.edu
-  - bleepbloopsify@gmail.com
-  - leonchou123@gmail.com
+  # - bleepbloopsify@gmail.com
+  # - leonchou123@gmail.com
 description: > #
-  Leon Chou: programmer and developer, devoted to coding and programatically solving problems.
-  This site is dedicated to showing his skills, projects, and activity in the real world.
+  Leon Chou: programmer and developer, devoted to coding and solving real world problems programatically.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: bleepbloopsify
 github_username:  bleepbloopsify
 linkedin_username: bleepbloopsify
+resume: /public/pdfs/resume.pdf
 
 # Build settings
 markdown: kramdown
+exclude: [_gits]
