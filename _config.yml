@@ -11,8 +11,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: bleepbloopsify
 github_username:  bleepbloopsify
 linkedin_username: bleepbloopsify
-resume: /public/pdfs/resume.pdf
+resume: /gits/resume/build/resume.pdf
 
 # Build settings
 markdown: kramdown
-exclude: [_gits]
+exclude: []
