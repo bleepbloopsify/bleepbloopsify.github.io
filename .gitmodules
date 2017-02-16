@@ -1,3 +1,3 @@
-[submodule "_gits/resume"]
-	path = _gits/resume
+[submodule "gits/resume"]
+	path = gits/resume
 	url = https://github.com/bleepbloopsify/resume.git
